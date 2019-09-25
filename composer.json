@@ -1,0 +1,12 @@
+{
+    "name": "ubuntu/workspace",
+    "require": {
+        "stripe/stripe-php": "^6.37"
+    },
+    "authors": [
+        {
+            "name": "Nick Hunziker",
+            "email": "nhunziker19@bhbl.net"
+        }
+    ]
+}
